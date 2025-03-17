@@ -1,0 +1,29 @@
+{
+  "groups_to_search": [
+    {
+      "category": "src",
+      "location": "/home/liwuen/tests_projects/project_to_explore/folder_01/",
+      "label": "folder_01"
+    },
+    {
+      "category": "src",
+      "location": "/home/liwuen/tests_projects/project_to_explore/folder_02",
+      "label": "folder_02"
+    },
+    {
+      "category": "test",
+      "location": "/home/liwuen/tests_projects/project_to_explore/folder_test",
+      "label": "test"
+    },
+    {
+      "category": "F407",
+      "location": "/home/liwuen/tests_projects/project_to_explore/folder_example",
+      "label": "example"
+    },
+    {
+      "category": "U575",
+      "location": "/home/liwuen/tests_projects/project_to_explore/folder_bench",
+      "label": "benchmarks"
+    }
+  ]
+}
